@@ -1,0 +1,1 @@
+print(f"Seu bendito nome: {input('Insira seu nome:')}")
